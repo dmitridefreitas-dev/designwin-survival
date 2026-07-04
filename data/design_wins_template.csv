@@ -1,0 +1,3 @@
+ticker,announce_date,customer,segment,source_url,revenue_event_date
+MCHP,2024-03-01,EXAMPLE Corp (replace with real rows),auto,https://example.com/pr1,2025-01-15
+NXPI,2024-06-10,EXAMPLE Systems (replace with real rows),industrial,https://example.com/pr2,
