@@ -1,5 +1,7 @@
 # designwin-survival
 
+📄 **[Report (PDF)](notebooks/designwin-survival-report.pdf)** · 📓 [interactive notebook](notebooks/study.ipynb)
+
 **Applied survival analysis to a financial time-to-event question: implemented
 Kaplan-Meier and the log-rank test from scratch (cross-validated against `lifelines`
 to 1e-9), extracted right-censored drawdown-recovery episodes from 30 years of
