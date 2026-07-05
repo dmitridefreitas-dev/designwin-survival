@@ -1,5 +1,7 @@
 # designwin-survival
 
+[![CI](https://github.com/dmitridefreitas-dev/designwin-survival/actions/workflows/ci.yml/badge.svg)](https://github.com/dmitridefreitas-dev/designwin-survival/actions/workflows/ci.yml)
+
 📄 **[Report (PDF)](notebooks/designwin-survival-report.pdf)** · 📓 [interactive notebook](notebooks/study.ipynb)
 
 **Applied survival analysis to a financial time-to-event question: implemented
